@@ -1,5 +1,6 @@
 # Chess-Bot By Davi0k
 Chess-Bot is a [Discord](https://discordapp.com/) BOT used to play chess directly in text channels against other users. It includes also a graphical chess board and a simple statistics database for each player.
+
 You can find it available here: [https://top.gg/bot/685895842430713913](https://top.gg/bot/685895842430713913)
 
 ## Starting the BOT
