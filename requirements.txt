@@ -1,0 +1,5 @@
+Pillow
+python-dotenv
+shortuuid
+mongoengine
+discord.py
