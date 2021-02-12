@@ -3,3 +3,4 @@ python-dotenv
 shortuuid
 mongoengine
 discord.py
+chess
