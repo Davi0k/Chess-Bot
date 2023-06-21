@@ -1,6 +1,6 @@
-Pillow
-python-dotenv
-shortuuid
-mongoengine
-discord.py
-chess
+Pillow==8.1.0
+python-dotenv==0.15.0
+shortuuid==1.0.1
+mongoengine==0.22.1
+discord.py==1.6.0
+chess==1.4.0
